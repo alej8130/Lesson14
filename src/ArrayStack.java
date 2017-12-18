@@ -4,7 +4,7 @@ import static java.util.Collections.list;
 
 
 public class ArrayStack implements Stack{
-    private Arrau
+    private ArrayList list;
     public ArrayStack(){
 		list = new ArrayList();
 	}

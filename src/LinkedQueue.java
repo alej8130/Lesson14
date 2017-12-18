@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class LinkedQueue implememnts Queue{
+public class LinkedQueue implements Queue{
     private ArrayList list;
 	
 	public LinkedQueue(){
